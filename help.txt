@@ -1,0 +1,129 @@
+Notes of header part
+____________________
+
+navbar :-
+----------------------------------------------
+menu > ul > li > a:
+
+1.padding:
+xl,lg            md              sm            xs
+0 40px           0 0             0 0           0 0
+
+2.text-align:
+xl,lg            md              sm            xs
+left             right           right         right
+
+3.font-size:
+xl,lg            md              sm            xs
+22px             22px            22px          20px
+
+
+Notes of slider part
+____________________
+
+slider :-
+---------------------------------------------------
+padding-bottom:
+xl,lg            md              sm            xs
+100px            100px           80px          80px
+
+c_ci :-
+---------------------------------------------------
+bottom:
+xl,lg            md              sm            xs
+-80px            -80px           -50px         -50px
+
+s_content :-
+---------------------------------------------------
+margin-top:
+xl,lg            md              sm            xs
+70px             30px            10px          10px
+
+s_content > h1 :-
+---------------------------------------------------
+font-size:
+xl,lg            md              sm            xs
+32px             32px            32px          25px
+
+s_content > p :-
+---------------------------------------------------
+margin-bottom:
+xl,lg            md              sm            xs
+30px             30px            30px          10px
+
+s_icon > li :-
+---------------------------------------------------
+margin-right:
+xl,lg            md              sm            xs
+30px             30px            30px          20px
+
+Notes of Service part 
+_____________________
+
+service :-
+---------------------------------------------------
+.service > padding:
+xl,lg             md               sm             xs
+100px 0 130px     100px 0 130px    70px 0 50px    70px 0 50px
+
+.title > margin-bottom:
+xl,lg             md             sm             xs
+70px              70px           40px           40px
+
+.t_p > font-size:
+xl,lg             md             sm             xs
+20px              20px           18px           18px
+
+.single > margin-bottom:
+xl,lg             md             sm             xs
+50px              50px           40px           30px
+
+.ser_text > margin-top:
+xl,lg             md             sm                 xs
+8px               8px            0,text-center      0,text-center 
+
+
+Notes of Contact part 
+_____________________
+
+.contact > padding:
+xl,lg             md              sm              xs
+100px 0 130px     100px 0 80px    100px 0 60px    100px 0 45px
+
+.form_class input > height:
+xl,lg             md              sm              xs
+50px              50px            45px            45px
+
+.btn_submit :-
+xl,lg             md                sm                xs
+width: 130px      width: 130px      width: 110px      width: 100%
+height: 50px      height: 50px      height: 45px      height: 45px
+
+.social_link > margin-top: 
+xl,lg             md              sm              xs
+60px              60px            60px            50px,text-center
+
+.social_link ul li a > margin-right:
+xl,lg             md              sm              xs
+17px              17px            17px            10px
+
+font-size:
+xl,lg             md              sm              xs
+42px              42px            42px            32px
+
+
+Notes of Footer part 
+_____________________
+
+.footer > padding-bottom: 
+xl,lg             md              sm              xs
+130px             80px            60px            45px
+
+address > 
+xl, lg, md, sm              xs
+   default                  margin-bottom: 30px
+                            text-align: center
+
+.a_custom > 
+xl, lg, md, sm              xs
+   default                  margin-bottom: 20px
